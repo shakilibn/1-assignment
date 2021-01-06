@@ -101,6 +101,10 @@ section {
 }
 .thrice-width p,h3{
     padding-left:5%;
+    color:#363958;
+}
+.thrice-width p {
+    color:gray;
 }
 .lastest-project {
     margin-left:5%;
@@ -122,15 +126,15 @@ section {
         text-align:center;
         margin-left:130px;
         font-family: 'Bebas Neue', cursive;
-        margin-top:230px;
+        margin-top:220px;
         color:white;
         font-size:60px;
         font-weight: 500;
 }
 
 .inquiry-button {
-    margin-left:260px;
-    margin-top:240px;
+    margin-left:210px;
+    margin-top:230px;
     display:inline-block;
     text-decoration:none;
     background-color:tomato;
@@ -143,7 +147,11 @@ section {
 #bottom-h3 {
     display:block;
     text-align:center;
-    margin-right:30px;
+    margin-right:45px;
+    font-family: 'Bebas Neue', cursive;
+    font-size:24px;
+    line-height:24px;
+    font-weight:550;
     color:gray;
     margin-top:0;
 }
