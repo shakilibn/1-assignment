@@ -75,6 +75,7 @@ section {
     font-family:'Bebas Neue', cursive;
     font-size : 48px;
     font-weight: 500;
+    color:#2b305a;
 }
 #second-text p {
     font-family: 'Roboto', sans-serif;
@@ -87,6 +88,7 @@ section {
     font-weight:500;
     margin-bottom:9%;
     margin-top:17%;
+    color:#282c55;
 }
 .thrice-width {
     width:30%;
