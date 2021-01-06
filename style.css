@@ -29,13 +29,19 @@ h2 {
     color:tomato;
 }
 .half-width {
-    width: 40%;
-    margin-left:5%;
+    width: 30%;
+    margin-left:7%;
     padding-left:2%;
     float:left;
 }
+.profile1 {
+    width:50%;
+}
+.profile2 {
+    width:40%;
+}
 section {
-    height: 520px;
+    height: 530px;
 }
 
 .introduction {    
@@ -51,9 +57,10 @@ section {
 .link-button {
     text-decoration:none;
     padding:15px 50px;
-    background-color:tomato;
+    background-image:linear-gradient(45deg,lightsalmon,tomato);
     border-radius: 5px;
     color:white;
+    font-weight:700;
 }
 #second-text {
     margin-top: 100px;
@@ -61,7 +68,8 @@ section {
 #lastest-project-heading {
     text-align:center;
     font-style:normal;
-    margin-bottom:5%;
+    margin-bottom:9%;
+    margin-top:17%;
 }
 .thrice-width {
     width:30%;
@@ -95,14 +103,14 @@ section {
 }
 .inquiry-half h2 {
         text-align:right;
-        margin-top:230px;
+        margin-top:240px;
         color:white;
         font-size:50px;
 }
 
 .inquiry-button {
     margin-left:260px;
-    margin-top:230px;
+    margin-top:245px;
     display:inline-block;
     text-decoration:none;
     background-color:tomato;
