@@ -1,0 +1,138 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.menu-bar {
+    height:5%;
+}
+.menu-bar ul {
+    list-style-type: none;
+    margin-right:10%;
+    padding:0;
+    overflow: hidden;
+}
+.menu-bar li {
+    float:right;
+}
+.menu-bar a {
+    display:block;
+    padding:8px 14px;
+    text-decoration:none;
+    font-weight:600;
+}
+h1 {
+    font-size:60px;
+}
+h2 {
+    font-size:35px;
+}
+.color-highlight {
+    color:tomato;
+}
+.half-width {
+    width: 40%;
+    margin-left:5%;
+    padding-left:2%;
+    float:left;
+}
+section {
+    height: 520px;
+}
+
+.introduction {    
+    margin-top:120px
+}
+.half-width img {
+    width:100%;
+}
+ p {
+    margin-bottom:50px;
+    color:#3E3E3E;
+}
+.link-button {
+    text-decoration:none;
+    padding:15px 50px;
+    background-color:tomato;
+    border-radius: 5px;
+    color:white;
+}
+#second-text {
+    margin-top: 100px;
+}
+#lastest-project-heading {
+    text-align:center;
+    font-style:normal;
+    margin-bottom:5%;
+}
+.thrice-width {
+    width:30%;
+    margin-left:2%;
+    float:left;
+    box-shadow:0px 1px 20px rgb(201, 198, 198);
+    border-radius:10px;
+    
+}
+.thrice-width img {
+    width:100%;
+}
+.thrice-width p,h3{
+    padding-left:5%;
+}
+.lastest-project {
+    margin-left:5%;
+    margin-right:5%;
+}
+.inquiry {
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-size:70% 40%;
+    background-position:center;
+}
+.inquiry-half {
+    width:40%;
+    margin-left:5%;
+    float:left;
+    height:500px;
+}
+.inquiry-half h2 {
+        text-align:right;
+        margin-top:230px;
+        color:white;
+        font-size:50px;
+}
+
+.inquiry-button {
+    margin-left:260px;
+    margin-top:230px;
+    display:inline-block;
+    text-decoration:none;
+    background-color:tomato;
+    padding:15px 30px;
+    border-radius:5px;
+    color:white;
+    font-size:14px;
+    font-weight: 500;
+}
+#bottom-h3 {
+    display:block;
+    text-align:center;
+    margin-right:50px;
+    color:gray;
+    margin-top:0;
+}
+#bottom-link {
+    display:block;
+    text-align:center;
+    text-decoration:none;
+    font-size:35px;
+    font-weight:600;
+    color:#363958;
+}
+.bottom img {
+    width:3%;
+    margin-top:1%;
+    margin-right:2%;
+    margin-bottom: 5%;
+}
+#ball {
+    margin-left:44%;
+}
